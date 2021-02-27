@@ -6,7 +6,7 @@
 [![Stars][stars-shield]][stars-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Sparkline][sparkline-shield]][sparkline-url]
-[![Maintenance]([maintainence-shield])][maintainence-url]
+[![Maintenance][maintainence-shield]][maintainence-url]
 
 ![img](https://github.com/IIITKalyaniFOSC/GitTub/blob/main/1.png)
 
