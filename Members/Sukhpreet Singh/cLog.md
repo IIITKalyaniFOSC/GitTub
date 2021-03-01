@@ -7,6 +7,8 @@
   
    | Commits | Issues | Pull requests | Repository |
    | ------- | ------ | ------------- | ---------- |
-   | dsavsadv|sadvdasasdvvasdv|asdvsadvasvdasdv|sdvasvddasvasdv|
+   | [Algorithm](https://github.com/sukhpreet-singh1/Algorithms/commits/master) | [#1](https://github.com/Shady2320/Codeforces/issues/1#issue-818954655) | [#46](https://github.com/naresh2002/A2OJ-Practice/pull/46#issue-582197116) | [A2OJ-Practise](https://github.com/sukhpreet-singh1/A2OJ-Practice) |
+   
+   
   
 </details>  
