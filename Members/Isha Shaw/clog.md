@@ -19,6 +19,8 @@ Mar 2
   * https://github.com/krishnaik06/Machine-Learning-in-90-days/pull/7
   
   * https://github.com/V2dha/NOvid-20/pull/25
+  
+  * https://github.com/V2dha/NOvid-20/pull/26
  
 2. Commit -
 
