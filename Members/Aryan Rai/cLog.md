@@ -9,4 +9,8 @@ March 2, 2021
 
 March 3, 2021  
 	> Python Project:[commit 3](https://github.com/NaYrA-IaR/PythonProjects/commit/6c25a996ffcbf76ec36ac819727b160e7c62520c)  
-		>> [Timer](https://github.com/NaYrA-IaR/PythonProjects/blob/16d4f27fedbad5e261cd2f1335476daeaa6aa87f/Projects/timer.py)
+		>> [Timer](https://github.com/NaYrA-IaR/PythonProjects/blob/16d4f27fedbad5e261cd2f1335476daeaa6aa87f/Projects/timer.py)  
+
+March 4, 2021  
+	> Python Project:[commit 4](https://github.com/NaYrA-IaR/PythonProjects/commit/3063594b743020b161760d43a58b8ef1eba2ab3c)  
+		>> [Coin Toss Simulator](https://github.com/NaYrA-IaR/PythonProjects/blob/3063594b743020b161760d43a58b8ef1eba2ab3c/Projects/CoinTossSimulation.py)
