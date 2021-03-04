@@ -27,5 +27,10 @@ This repo contains my codes of the A2OJ ladder questions.
    Added [Young Physicist](https://github.com/yashrajsingh11/A2OJ/commit/eaea62443cfdbdf1ff227129cc6c36fec6f53ac0)
 
    Added [Beautiful Matrix](https://github.com/yashrajsingh11/A2OJ/commit/ad262bfd2c0415f6b22a4eaeb0d77e25d843c70e)
+   
+   Added [Queue At School](https://github.com/yashrajsingh11/A2OJ/commit/29e9d2c353721a5b0c02853899a34ec0c175b2a0)
+   
+   Added [Borze](https://github.com/yashrajsingh11/A2OJ/commit/05c8d4b567b0d90a13005f646bec16b2ebcc1d8e)
 
 </details>
+
