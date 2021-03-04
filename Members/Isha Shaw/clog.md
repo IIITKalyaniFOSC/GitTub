@@ -25,3 +25,23 @@ Mar 2
 2. Commit -
 
    * https://github.com/Isha307/ML/tree/master/ML
+
+Mar 3
+
+1. PR-
+
+ * https://github.com/V2dha/NOvid-20/pull/27
+
+ * https://github.com/V2dha/NOvid-20/pull/28
+
+* https://github.com/V2dha/NOvid-20/pull/29
+
+* https://github.com/V2dha/NOvid-20/pull/30
+
+* https://github.com/V2dha/NOvid-20/pull/31
+
+* https://github.com/V2dha/NOvid-20/pull/32
+
+2. Commit - 
+
+   * https://github.com/Isha307/ML/tree/master/ML
