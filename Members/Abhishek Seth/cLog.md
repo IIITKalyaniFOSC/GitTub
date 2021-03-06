@@ -19,3 +19,5 @@ Added 2 more CP questions.
 Did 2 questions in CP
 ##### [commit 05-03](https://github.com/abs12seth/CP_Practice/commit/10a9ca2fd85960e812ca77813fcd939c50f771ac)
 Did 2 questions in CP
+##### [commit 06-03](https://github.com/abs12seth/CP_Practice/commit/f5158244e566a5060ed22cb9c4268e4f6f945bfb)
+Did 2 questions in CP
