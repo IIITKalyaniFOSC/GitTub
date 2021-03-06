@@ -56,4 +56,8 @@
 
 1. PR-
 
-   * https://github.com/V2dha/NOvid-20/pull/36
+ * https://github.com/V2dha/NOvid-20/pull/36
+
+       Mar 6
+       
+ 1. Review PR - [](https://github.com/Isha307/Good-First-Issue)
