@@ -17,4 +17,8 @@ March 4, 2021
 
 March 5, 2021  
 	> Python Project:[commit 5](https://github.com/NaYrA-IaR/PythonProjects/commit/ad6dc69321fd08c63216f90e0c7a3c879d54d920)  
-		>> [Happy Number](https://github.com/NaYrA-IaR/PythonProjects/blob/fff4a97f0a1853b34ec756ae53d1fb5d5ac35adc/Projects/HappyNumber.py)  
+		>> [Happy Number](https://github.com/NaYrA-IaR/PythonProjects/blob/fff4a97f0a1853b34ec756ae53d1fb5d5ac35adc/Projects/HappyNumber.py) 
+
+March 6, 2021  
+	> Python Project:[commit 6](https://github.com/NaYrA-IaR/PythonProjects/commit/5ed50e8997867d8f89fe42fdb01221d2793752c7)  
+		>> [FizzBuzz](https://github.com/NaYrA-IaR/PythonProjects/blob/f43435f654ed98fd1d6fcae998effa51a2ab42da/Projects/FizzBuzz.py)   
