@@ -64,6 +64,6 @@
   
  * ![1](https://github.com/Isha307/Good-First-Issue)
  
- 4. Created issue-
+ 2. Created issue-
 
   * ![2](https://github.com/Isha307/ML/issues)
