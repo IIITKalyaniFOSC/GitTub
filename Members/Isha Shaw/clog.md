@@ -60,4 +60,4 @@
 
        Mar 6
        
- 1. Review PR - [](https://github.com/Isha307/Good-First-Issue)
+ 1. Review PR - ![1](https://github.com/Isha307/Good-First-Issue)
