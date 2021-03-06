@@ -16,48 +16,49 @@
 
 1. PR -
  
-  * https://github.com/krishnaik06/Machine-Learning-in-90-days/pull/7
+  * ![](https://github.com/krishnaik06/Machine-Learning-in-90-days/pull/7)
   
-  * https://github.com/V2dha/NOvid-20/pull/25
+  * ![](https://github.com/V2dha/NOvid-20/pull/25)
   
-  * https://github.com/V2dha/NOvid-20/pull/26
+  * ![](https://github.com/V2dha/NOvid-20/pull/26)
  
 2. Commit -
 
-   * https://github.com/Isha307/ML/tree/master/ML
+   * ![](https://github.com/Isha307/ML/tree/master/ML)
 
          Mar 3
 
 1. PR-
 
- * https://github.com/V2dha/NOvid-20/pull/27
+ * ![](https://github.com/V2dha/NOvid-20/pull/27)
 
- * https://github.com/V2dha/NOvid-20/pull/28
+ * ![]( https://github.com/V2dha/NOvid-20/pull/28)
 
-* https://github.com/V2dha/NOvid-20/pull/29
+ * ![](https://github.com/V2dha/NOvid-20/pull/29)
 
-* https://github.com/V2dha/NOvid-20/pull/30
+ * ![](https://github.com/V2dha/NOvid-20/pull/30)
 
-* https://github.com/V2dha/NOvid-20/pull/31
+ * ![](https://github.com/V2dha/NOvid-20/pull/31)
 
-* https://github.com/V2dha/NOvid-20/pull/32
+ * ![](https://github.com/V2dha/NOvid-20/pull/32)
 
 2. Commit - 
 
- * https://github.com/Isha307/ML/tree/master/ML
+ * ![](https://github.com/Isha307/ML/tree/master/ML)
 
        Mar 4
 
 1. PR-
 
- * https://github.com/V2dha/NOvid-20/pull/34
+ * ![](https://github.com/V2dha/NOvid-20/pull/34)
 
        Mar 5
 
 1. PR-
 
- * https://github.com/V2dha/NOvid-20/pull/36
+ * ![](https://github.com/V2dha/NOvid-20/pull/36)
 
        Mar 6
        
- 1. Review PR - ![1](https://github.com/Isha307/Good-First-Issue)
+ 1. Review PR - ![](https://github.com/Isha307/Good-First-Issue)
+ 2. Created issue ![](https://github.com/Isha307/ML/issues)
