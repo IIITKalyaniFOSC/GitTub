@@ -24,5 +24,9 @@ March 6, 2021
 		>> [FizzBuzz](https://github.com/NaYrA-IaR/PythonProjects/blob/f43435f654ed98fd1d6fcae998effa51a2ab42da/Projects/FizzBuzz.py)     
 
 March 7, 2021  
-	> Python Project:[commit 7](https://github.com/NaYrA-IaR/PythonProjects/commit/5ed50e8997867d8f89fe42fdb01221d2793752c7)  
-		>> [Client-ServerSystem](https://github.com/NaYrA-IaR/PythonProjects/blob/f43435f654ed98fd1d6fcae998effa51a2ab42da/Projects/FizzBuzz.py)
+	> Python Project:[commit 7](https://github.com/NaYrA-IaR/PythonProjects/commit/7ca4698b11b264238b3ef5c3ac0fae3d6600f06e)  
+		>> [Client-ServerSystem](https://github.com/NaYrA-IaR/PythonProjects/tree/main/Projects/Client-ServerSystem)  
+
+March 8, 2021  
+	> Python Project:[commit 8](https://github.com/NaYrA-IaR/PythonProjects/commit/aa37a7aef07137b957f1e31779016a80386b8c70)  
+		>> [Sending Python Objects using pickle](https://github.com/NaYrA-IaR/PythonProjects/tree/main/Projects/SendRecvObjectsPy)
