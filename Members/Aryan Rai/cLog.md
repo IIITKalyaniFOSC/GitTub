@@ -21,4 +21,8 @@ March 5, 2021
 
 March 6, 2021  
 	> Python Project:[commit 6](https://github.com/NaYrA-IaR/PythonProjects/commit/5ed50e8997867d8f89fe42fdb01221d2793752c7)  
-		>> [FizzBuzz](https://github.com/NaYrA-IaR/PythonProjects/blob/f43435f654ed98fd1d6fcae998effa51a2ab42da/Projects/FizzBuzz.py)   
+		>> [FizzBuzz](https://github.com/NaYrA-IaR/PythonProjects/blob/f43435f654ed98fd1d6fcae998effa51a2ab42da/Projects/FizzBuzz.py)     
+
+March 7, 2021  
+	> Python Project:[commit 7](https://github.com/NaYrA-IaR/PythonProjects/commit/5ed50e8997867d8f89fe42fdb01221d2793752c7)  
+		>> [Client-ServerSystem](https://github.com/NaYrA-IaR/PythonProjects/blob/f43435f654ed98fd1d6fcae998effa51a2ab42da/Projects/FizzBuzz.py)
