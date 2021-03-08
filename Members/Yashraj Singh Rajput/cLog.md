@@ -12,7 +12,7 @@ This project is based on face detection and recognition using OpenCV.
 
    Added [Face Recognition using LBPH: Local Binary Patterns Histogram](https://github.com/yashrajsingh11/Phiz-X/commit/2b5078165cf8635e311cdcf0cb4ce8c32afbe2b0) 
 
-   Added [glasses filter](https://github.com/yashrajsingh11/Phiz-X/commit/903621764859ba134962a74265c62ec84791fdab)
+   Added [Glasses Filter](https://github.com/yashrajsingh11/Phiz-X/commit/903621764859ba134962a74265c62ec84791fdab)
 
 </details>
 
@@ -36,7 +36,15 @@ This repo contains my codes of the A2OJ ladder questions.
    
    Added [Lights Out](https://github.com/yashrajsingh11/A2OJ/commit/cf8ab85ebf37e538eaf64f2c71a5eb0ded83896c)
    
-   added [Words](https://github.com/yashrajsingh11/A2OJ/commit/acbba60e65502ba7ecee406d5dc4b88ba679cc08)
+   Added [Words](https://github.com/yashrajsingh11/A2OJ/commit/acbba60e65502ba7ecee406d5dc4b88ba679cc08)
+   
+   Added [Word Capitalization](https://github.com/yashrajsingh11/A2OJ/commit/9a4ae2816958def11a611bcf0db806b3de3390a8)
+   
+   Added [Nearly Lucky Number](https://github.com/yashrajsingh11/A2OJ/commit/cd660ff61f6296f12f865cad073c8214ba66ebbe)
+   
+   Added [Stones On The Table](https://github.com/yashrajsingh11/A2OJ/commit/b8e9e9d1828a56819f6b28a962943882a45cea0b)
+   
+   Added [Panoramix Prediction](https://github.com/yashrajsingh11/A2OJ/commit/ae2e9d544b824588321c8737740966aefa423e0a)
 
 </details>
 
