@@ -9,7 +9,8 @@ Added Shell sort
 Added QuickSort with pivot at begining.
 ##### [commit 06-03](https://github.com/abs12seth/StepAlgo/commit/c66513a66a3827b66ed4e786b0bea062ccb22f6c)
 Added Quick Sort using Last point as pivot.
-
+##### [commit 09-03](https://github.com/abs12seth/StepAlgo/commit/18719ed68bfadef36ac1e87732de0814bd00d984)
+Added Insertion sort using recursion
 
 
 ## CP Practice
