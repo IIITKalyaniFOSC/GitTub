@@ -30,3 +30,7 @@ March 7, 2021
 March 8, 2021  
 	> Python Project:[commit 8](https://github.com/NaYrA-IaR/PythonProjects/commit/aa37a7aef07137b957f1e31779016a80386b8c70)  
 		>> [Sending Python Objects using pickle](https://github.com/NaYrA-IaR/PythonProjects/tree/main/Projects/SendRecvObjectsPy)
+
+March 9, 2021  
+	> Python Project:[commit 9](https://github.com/NaYrA-IaR/PythonProjects/commit/d2e616f70c8f1a4f7240fe3a724b5f6084cedc37)  
+		>> [Server side for Chat App in Python](https://github.com/NaYrA-IaR/PythonProjects/blob/164d56133463458d0cdf137259e5501775669ef6/Projects/ChatRoom/server.py)
