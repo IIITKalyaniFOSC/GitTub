@@ -9,7 +9,8 @@ Added Shell sort
 Added QuickSort with pivot at begining.
 ##### [commit 06-03](https://github.com/abs12seth/StepAlgo/commit/c66513a66a3827b66ed4e786b0bea062ccb22f6c)
 Added Quick Sort using Last point as pivot.
-
+##### [commit 09-03](https://github.com/abs12seth/StepAlgo/commit/18719ed68bfadef36ac1e87732de0814bd00d984)
+Added Insertion sort using recursion
 
 
 ## CP Practice
@@ -25,3 +26,7 @@ Did 2 questions in CP
 Did 2 questions in CP
 ##### [commit 07-03](https://github.com/abs12seth/CP_Practice/commit/a6271b0c31aca4bb38561949a910fcddadaefbe8)
 Did 2 questions in CP
+##### [commit 08-03](https://github.com/abs12seth/CP_Practice/commit/27fd76ec70d84278171e8ec91a696aba439e03f7)
+Did 3 questions in CP
+##### [commit 09-03](https://github.com/abs12seth/CP_Practice/commit/045366ec95e882fe2243a055a011c44e06aa810a)
+Did 5 questions today
