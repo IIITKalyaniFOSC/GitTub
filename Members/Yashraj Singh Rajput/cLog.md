@@ -45,6 +45,34 @@ This repo contains my codes of the A2OJ ladder questions.
    Added [Stones On The Table](https://github.com/yashrajsingh11/A2OJ/commit/b8e9e9d1828a56819f6b28a962943882a45cea0b)
    
    Added [Panoramix Prediction](https://github.com/yashrajsingh11/A2OJ/commit/ae2e9d544b824588321c8737740966aefa423e0a)
+   
+   Added [Ultra-Fast Mathematician](https://github.com/yashrajsingh11/A2OJ/commit/1c077d1b82c6dae4190927e6733f2c4a3cfd21ac)
+   
+   Added [Perfect Permutation](https://github.com/yashrajsingh11/A2OJ/commit/098c4f8b8f81ed8315fa4c1032a3fa4fa95f6dc3)
+   
+   Added [Arrival Of The General](https://github.com/yashrajsingh11/A2OJ/commit/28d1c9f7dcd03718d30bf2bd73e6252030f0a222)
+   
+   Added [Drinks](https://github.com/yashrajsingh11/A2OJ/commit/dc161fa430ca822f60c2db1f914ad05e743d0614)
+   
+   Added [Insomnia Cure](https://github.com/yashrajsingh11/A2OJ/commit/d9563c68ab85ea7132414f6c400869e59e96af6f)
+   
+   Added [Cupboards](https://github.com/yashrajsingh11/A2OJ/commit/03c361444ead18c903246eca9259ebc008d6da5b)
+   
+   Added [I Love Username](https://github.com/yashrajsingh11/A2OJ/commit/fb39da9d28947ab717781c1125de635268cca6ca)
+   
+   Added [Tram](https://github.com/yashrajsingh11/A2OJ/commit/e3f72e7a35b37e8309e9167a66835566f7fb5756)
+   
+   Added [Helpful Maths](https://github.com/yashrajsingh11/A2OJ/commit/b315a75850f5ba8e66f5f6a3fb3667fd23d2e16c)
+   
+   Added [Horseshoe On The Other Hoof](https://github.com/yashrajsingh11/A2OJ/commit/b576c92c0108ebd192a0caf07999229c26bb039a)
+   
+   Added [Way Too Long Word](https://github.com/yashrajsingh11/A2OJ/commit/44ed58133eb5668954acd36af655e3f8ab27b73a)
+   
+   Added [Boy Or Girl](https://github.com/yashrajsingh11/A2OJ/commit/d326527163f32af262ca9af74e4e007a21e8ea16)
+   
+   Added [Amusing Joke](https://github.com/yashrajsingh11/A2OJ/commit/c96d95cfa3f575ec5a2e5163cf91393156a9e690)
+   
+   Added [Soft Drinking](https://github.com/yashrajsingh11/A2OJ/commit/cc3941b5d3303b669b7f16d02fb68db40c6dfc8b)
 
 </details>
 
