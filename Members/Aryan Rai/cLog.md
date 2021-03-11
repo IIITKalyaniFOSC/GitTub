@@ -34,3 +34,7 @@ March 8, 2021
 March 9, 2021  
 	> Python Project:[commit 9](https://github.com/NaYrA-IaR/PythonProjects/commit/d2e616f70c8f1a4f7240fe3a724b5f6084cedc37)  
 		>> [Server side for Chat App in Python](https://github.com/NaYrA-IaR/PythonProjects/blob/164d56133463458d0cdf137259e5501775669ef6/Projects/ChatRoom/server.py)
+
+March 10, 2021  
+	> Python Project:[commit 10](https://github.com/NaYrA-IaR/PythonProjects/commit/64177301bc24487bee59ed6e05dafd615192fd30)  
+		>> [Client side for Chat App in Python](https://github.com/NaYrA-IaR/PythonProjects/blob/20b72fdf64b14943e7745d918689a747cd9fabdf/Projects/ChatRoom/client.py)		
