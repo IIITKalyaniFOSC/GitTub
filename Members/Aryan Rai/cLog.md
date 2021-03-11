@@ -37,4 +37,8 @@ March 9, 2021
 
 March 10, 2021  
 	> Python Project:[commit 10](https://github.com/NaYrA-IaR/PythonProjects/commit/64177301bc24487bee59ed6e05dafd615192fd30)  
-		>> [Client side for Chat App in Python](https://github.com/NaYrA-IaR/PythonProjects/blob/20b72fdf64b14943e7745d918689a747cd9fabdf/Projects/ChatRoom/client.py)		
+		>> [Client side for Chat App in Python](https://github.com/NaYrA-IaR/PythonProjects/blob/20b72fdf64b14943e7745d918689a747cd9fabdf/Projects/ChatRoom/client.py)	
+
+March 11, 2021  
+	> Python Project:[commit 11](https://github.com/NaYrA-IaR/PythonProjects/commit/57ec345e68999263ab27d6770db7ee65be929aa0)  
+		>> [Count No Of Vowels In String](https://github.com/NaYrA-IaR/PythonProjects/blob/49e7867d63ac7df4e64cc504443d439603a2bd4f/Projects/NoOfVowels.pyy)		
