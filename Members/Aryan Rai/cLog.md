@@ -41,4 +41,8 @@ March 10, 2021
 
 March 11, 2021  
 	> Python Project:[commit 11](https://github.com/NaYrA-IaR/PythonProjects/commit/57ec345e68999263ab27d6770db7ee65be929aa0)  
-		>> [Count No Of Vowels In String](https://github.com/NaYrA-IaR/PythonProjects/blob/49e7867d63ac7df4e64cc504443d439603a2bd4f/Projects/NoOfVowels.pyy)		
+		>> [Count No Of Vowels In String](https://github.com/NaYrA-IaR/PythonProjects/blob/49e7867d63ac7df4e64cc504443d439603a2bd4f/Projects/NoOfVowels.py)	
+
+March 12, 2021  
+	> Python Project:[commit 12](https://github.com/NaYrA-IaR/PythonProjects/commit/6339b5eba896d289d42976a80c4339f0ae532021)  
+		>> [Web Scraper Using Selenium](https://github.com/NaYrA-IaR/PythonProjects/blob/d96413beafdb0cf26f8fb4062f29dc7715eb597f/Projects/WebScraper/Selenium/webscrape.py)		
