@@ -13,6 +13,8 @@ Added Quick Sort using Last point as pivot.
 Added Insertion sort using recursion
 ##### [commit 10-03](https://github.com/abs12seth/StepAlgo/commit/7728423e0f01b9145633db4611b13d34d3b3ea76)
 Added Heap Sort
+##### [commit 12-03](https://github.com/abs12seth/StepAlgo/commit/e58f006fe9b094776c11f63b6b51dbef3cd02b53)
+Updated Heap sort for showing steps.
 
 
 ## CP Practice
