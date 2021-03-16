@@ -103,6 +103,29 @@ This repo contains my codes of the A2OJ ladder questions.
    Added [Hexadecimal Theorem](https://github.com/yashrajsingh11/A2OJ/commit/b4d94d21f4094c0f5b24d3f09fdd4ec78355e1f9)
    
    Added [Jeff And Digits](https://github.com/yashrajsingh11/A2OJ/commit/513a36a3ed1d20fdcc222552e80049fbef74a306)
+   
+   Added [Xenia And Ringroad](https://github.com/yashrajsingh11/A2OJ/commit/63fcdd8b80a5894caf0c3535b917252875f33111)
+   
+   Added [Magic Numbers](https://github.com/yashrajsingh11/A2OJ/commit/f930913d3f5f80ae5fcf116cfae282a9b08e163d)
+   
+   Added [Translation](https://github.com/yashrajsingh11/A2OJ/commit/0d1ce4bf7bdac6d5940042a26bf47730daa3ab48)
 
 </details>
 
+## Repo-3: Snakes-And-Ladders
+
+The classic Snakes and Ladders Boardgame with some twists.
+
+<details>
+  
+  <summary>Commits </summary>
+  
+   Added [Initial Board UI and gitignore](https://github.com/yashrajsingh11/Snakes-And-Ladders/commit/441fbf8fa46c78c9fe09f50ca3d723b7302bc77e)
+   
+   Added [Dice Roll Functionality](https://github.com/yashrajsingh11/Snakes-And-Ladders/commit/6effcca4e75ac460b130cd34c5cf8b1959dba0d9)
+   
+   Added [Player Piece Movement](https://github.com/yashrajsingh11/Snakes-And-Ladders/commit/b3d1cce5c34ca41f5e98367152234de8dd08ec76)
+   
+   Added [Functionality To Snakes And Ladders](https://github.com/yashrajsingh11/Snakes-And-Ladders/commit/5f031dd70bff765085c58dfe33466845a52b2c84)
+
+</details>
