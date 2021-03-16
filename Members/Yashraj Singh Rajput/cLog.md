@@ -73,6 +73,36 @@ This repo contains my codes of the A2OJ ladder questions.
    Added [Amusing Joke](https://github.com/yashrajsingh11/A2OJ/commit/c96d95cfa3f575ec5a2e5163cf91393156a9e690)
    
    Added [Soft Drinking](https://github.com/yashrajsingh11/A2OJ/commit/cc3941b5d3303b669b7f16d02fb68db40c6dfc8b)
+   
+   Added [HQ9+](https://github.com/yashrajsingh11/A2OJ/commit/1fc2981c89ab3ef22d3036088395da0f38040ca9)
+   
+   Added [Petya And Strings](https://github.com/yashrajsingh11/A2OJ/commit/c313c4cefc08dca1416a7bbd0f7ebe1b03cd8e87)
+   
+   Added [Team](https://github.com/yashrajsingh11/A2OJ/commit/18ff427029bc4c0bd891ad92d9fb780ccc7b590a)
+   
+   Added [Bit++](https://github.com/yashrajsingh11/A2OJ/commit/0d197f9b404529c2bba83e3f22cc035195a12b5f)
+   
+   Added [Effective Approach](https://github.com/yashrajsingh11/A2OJ/commit/4434242ca33800c125866f8baae55a52ca8f45a7)
+   
+   Added [Dima And Friends](https://github.com/yashrajsingh11/A2OJ/commit/265b9c7b39b13d6239abc35b2f0510c13d7e7a3a)
+   
+   Added [Jzzhu And Children](https://github.com/yashrajsingh11/A2OJ/commit/5b3bde7158c356ba6cebe55ba513cc1ab3cb7710)
+   
+   Added [Super Central Point](https://github.com/yashrajsingh11/A2OJ/commit/1620e2997a45da27e8781478f1ec6ad2f12e9af1)
+   
+   Added [Petr And Book](https://github.com/yashrajsingh11/A2OJ/commit/c023eaec7474ccbb2776f79f51ae824f6ef5584e)
+   
+   Added [Parallelepiped](https://github.com/yashrajsingh11/A2OJ/commit/cb090c08da55278f8e252ea392e5a72c89ef2404)
+   
+   Added [Reconnaissance 2](https://github.com/yashrajsingh11/A2OJ/commit/5a78d68f7ee6ff7d08209e3af320073386a548ef)
+   
+   Added [Even Odds](https://github.com/yashrajsingh11/A2OJ/commit/54d6718f535dfcb984465eddbd74723cd52cc3a2)
+   
+   Added [Little Elephant And Rozdil](https://github.com/yashrajsingh11/A2OJ/commit/cebdb655c42f4bfcc773c23710e0178e505dc854)
+   
+   Added [Hexadecimal Theorem](https://github.com/yashrajsingh11/A2OJ/commit/b4d94d21f4094c0f5b24d3f09fdd4ec78355e1f9)
+   
+   Added [Jeff And Digits](https://github.com/yashrajsingh11/A2OJ/commit/513a36a3ed1d20fdcc222552e80049fbef74a306)
 
 </details>
 
