@@ -12,7 +12,7 @@ This project is based on face detection and recognition using OpenCV.
 
    Added [Face Recognition using LBPH: Local Binary Patterns Histogram](https://github.com/yashrajsingh11/Phiz-X/commit/2b5078165cf8635e311cdcf0cb4ce8c32afbe2b0) 
 
-   Added [glasses filter](https://github.com/yashrajsingh11/Phiz-X/commit/903621764859ba134962a74265c62ec84791fdab)
+   Added [Glasses Filter](https://github.com/yashrajsingh11/Phiz-X/commit/903621764859ba134962a74265c62ec84791fdab)
 
 </details>
 
@@ -36,7 +36,96 @@ This repo contains my codes of the A2OJ ladder questions.
    
    Added [Lights Out](https://github.com/yashrajsingh11/A2OJ/commit/cf8ab85ebf37e538eaf64f2c71a5eb0ded83896c)
    
-   added [Words](https://github.com/yashrajsingh11/A2OJ/commit/acbba60e65502ba7ecee406d5dc4b88ba679cc08)
+   Added [Words](https://github.com/yashrajsingh11/A2OJ/commit/acbba60e65502ba7ecee406d5dc4b88ba679cc08)
+   
+   Added [Word Capitalization](https://github.com/yashrajsingh11/A2OJ/commit/9a4ae2816958def11a611bcf0db806b3de3390a8)
+   
+   Added [Nearly Lucky Number](https://github.com/yashrajsingh11/A2OJ/commit/cd660ff61f6296f12f865cad073c8214ba66ebbe)
+   
+   Added [Stones On The Table](https://github.com/yashrajsingh11/A2OJ/commit/b8e9e9d1828a56819f6b28a962943882a45cea0b)
+   
+   Added [Panoramix Prediction](https://github.com/yashrajsingh11/A2OJ/commit/ae2e9d544b824588321c8737740966aefa423e0a)
+   
+   Added [Ultra-Fast Mathematician](https://github.com/yashrajsingh11/A2OJ/commit/1c077d1b82c6dae4190927e6733f2c4a3cfd21ac)
+   
+   Added [Perfect Permutation](https://github.com/yashrajsingh11/A2OJ/commit/098c4f8b8f81ed8315fa4c1032a3fa4fa95f6dc3)
+   
+   Added [Arrival Of The General](https://github.com/yashrajsingh11/A2OJ/commit/28d1c9f7dcd03718d30bf2bd73e6252030f0a222)
+   
+   Added [Drinks](https://github.com/yashrajsingh11/A2OJ/commit/dc161fa430ca822f60c2db1f914ad05e743d0614)
+   
+   Added [Insomnia Cure](https://github.com/yashrajsingh11/A2OJ/commit/d9563c68ab85ea7132414f6c400869e59e96af6f)
+   
+   Added [Cupboards](https://github.com/yashrajsingh11/A2OJ/commit/03c361444ead18c903246eca9259ebc008d6da5b)
+   
+   Added [I Love Username](https://github.com/yashrajsingh11/A2OJ/commit/fb39da9d28947ab717781c1125de635268cca6ca)
+   
+   Added [Tram](https://github.com/yashrajsingh11/A2OJ/commit/e3f72e7a35b37e8309e9167a66835566f7fb5756)
+   
+   Added [Helpful Maths](https://github.com/yashrajsingh11/A2OJ/commit/b315a75850f5ba8e66f5f6a3fb3667fd23d2e16c)
+   
+   Added [Horseshoe On The Other Hoof](https://github.com/yashrajsingh11/A2OJ/commit/b576c92c0108ebd192a0caf07999229c26bb039a)
+   
+   Added [Way Too Long Word](https://github.com/yashrajsingh11/A2OJ/commit/44ed58133eb5668954acd36af655e3f8ab27b73a)
+   
+   Added [Boy Or Girl](https://github.com/yashrajsingh11/A2OJ/commit/d326527163f32af262ca9af74e4e007a21e8ea16)
+   
+   Added [Amusing Joke](https://github.com/yashrajsingh11/A2OJ/commit/c96d95cfa3f575ec5a2e5163cf91393156a9e690)
+   
+   Added [Soft Drinking](https://github.com/yashrajsingh11/A2OJ/commit/cc3941b5d3303b669b7f16d02fb68db40c6dfc8b)
+   
+   Added [HQ9+](https://github.com/yashrajsingh11/A2OJ/commit/1fc2981c89ab3ef22d3036088395da0f38040ca9)
+   
+   Added [Petya And Strings](https://github.com/yashrajsingh11/A2OJ/commit/c313c4cefc08dca1416a7bbd0f7ebe1b03cd8e87)
+   
+   Added [Team](https://github.com/yashrajsingh11/A2OJ/commit/18ff427029bc4c0bd891ad92d9fb780ccc7b590a)
+   
+   Added [Bit++](https://github.com/yashrajsingh11/A2OJ/commit/0d197f9b404529c2bba83e3f22cc035195a12b5f)
+   
+   Added [Effective Approach](https://github.com/yashrajsingh11/A2OJ/commit/4434242ca33800c125866f8baae55a52ca8f45a7)
+   
+   Added [Dima And Friends](https://github.com/yashrajsingh11/A2OJ/commit/265b9c7b39b13d6239abc35b2f0510c13d7e7a3a)
+   
+   Added [Jzzhu And Children](https://github.com/yashrajsingh11/A2OJ/commit/5b3bde7158c356ba6cebe55ba513cc1ab3cb7710)
+   
+   Added [Super Central Point](https://github.com/yashrajsingh11/A2OJ/commit/1620e2997a45da27e8781478f1ec6ad2f12e9af1)
+   
+   Added [Petr And Book](https://github.com/yashrajsingh11/A2OJ/commit/c023eaec7474ccbb2776f79f51ae824f6ef5584e)
+   
+   Added [Parallelepiped](https://github.com/yashrajsingh11/A2OJ/commit/cb090c08da55278f8e252ea392e5a72c89ef2404)
+   
+   Added [Reconnaissance 2](https://github.com/yashrajsingh11/A2OJ/commit/5a78d68f7ee6ff7d08209e3af320073386a548ef)
+   
+   Added [Even Odds](https://github.com/yashrajsingh11/A2OJ/commit/54d6718f535dfcb984465eddbd74723cd52cc3a2)
+   
+   Added [Little Elephant And Rozdil](https://github.com/yashrajsingh11/A2OJ/commit/cebdb655c42f4bfcc773c23710e0178e505dc854)
+   
+   Added [Hexadecimal Theorem](https://github.com/yashrajsingh11/A2OJ/commit/b4d94d21f4094c0f5b24d3f09fdd4ec78355e1f9)
+   
+   Added [Jeff And Digits](https://github.com/yashrajsingh11/A2OJ/commit/513a36a3ed1d20fdcc222552e80049fbef74a306)
+   
+   Added [Xenia And Ringroad](https://github.com/yashrajsingh11/A2OJ/commit/63fcdd8b80a5894caf0c3535b917252875f33111)
+   
+   Added [Magic Numbers](https://github.com/yashrajsingh11/A2OJ/commit/f930913d3f5f80ae5fcf116cfae282a9b08e163d)
+   
+   Added [Translation](https://github.com/yashrajsingh11/A2OJ/commit/0d1ce4bf7bdac6d5940042a26bf47730daa3ab48)
 
 </details>
 
+## Repo-3: Snakes-And-Ladders
+
+The classic Snakes and Ladders Boardgame with some twists.
+
+<details>
+  
+  <summary>Commits </summary>
+  
+   Added [Initial Board UI and gitignore](https://github.com/yashrajsingh11/Snakes-And-Ladders/commit/441fbf8fa46c78c9fe09f50ca3d723b7302bc77e)
+   
+   Added [Dice Roll Functionality](https://github.com/yashrajsingh11/Snakes-And-Ladders/commit/6effcca4e75ac460b130cd34c5cf8b1959dba0d9)
+   
+   Added [Player Piece Movement](https://github.com/yashrajsingh11/Snakes-And-Ladders/commit/b3d1cce5c34ca41f5e98367152234de8dd08ec76)
+   
+   Added [Functionality To Snakes And Ladders](https://github.com/yashrajsingh11/Snakes-And-Ladders/commit/5f031dd70bff765085c58dfe33466845a52b2c84)
+
+</details>

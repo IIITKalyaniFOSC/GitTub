@@ -9,7 +9,12 @@ Added Shell sort
 Added QuickSort with pivot at begining.
 ##### [commit 06-03](https://github.com/abs12seth/StepAlgo/commit/c66513a66a3827b66ed4e786b0bea062ccb22f6c)
 Added Quick Sort using Last point as pivot.
-
+##### [commit 09-03](https://github.com/abs12seth/StepAlgo/commit/18719ed68bfadef36ac1e87732de0814bd00d984)
+Added Insertion sort using recursion
+##### [commit 10-03](https://github.com/abs12seth/StepAlgo/commit/7728423e0f01b9145633db4611b13d34d3b3ea76)
+Added Heap Sort
+##### [commit 12-03](https://github.com/abs12seth/StepAlgo/commit/e58f006fe9b094776c11f63b6b51dbef3cd02b53)
+Updated Heap sort for showing steps.
 
 
 ## CP Practice
@@ -23,3 +28,19 @@ Did 2 questions in CP
 Did 2 questions in CP
 ##### [commit 06-03](https://github.com/abs12seth/CP_Practice/commit/f5158244e566a5060ed22cb9c4268e4f6f945bfb)
 Did 2 questions in CP
+##### [commit 07-03](https://github.com/abs12seth/CP_Practice/commit/a6271b0c31aca4bb38561949a910fcddadaefbe8)
+Did 2 questions in CP
+##### [commit 08-03](https://github.com/abs12seth/CP_Practice/commit/27fd76ec70d84278171e8ec91a696aba439e03f7)
+Did 3 questions in CP
+##### [commit 09-03](https://github.com/abs12seth/CP_Practice/commit/045366ec95e882fe2243a055a011c44e06aa810a)
+Did 5 questions today
+##### [commit 10-03](https://github.com/abs12seth/CP_Practice/commit/ef321dcc155dff3ea302ed07db72cf058af8f5a1)
+Did 5 questions today
+##### [commit 11-03](https://github.com/abs12seth/CP_Practice/commit/7cb097bab628ad50b281b9cb4d0e3eb23fcb261a)
+Did 5 questions today.
+##### [commit 12-03](https://github.com/abs12seth/CP_Practice/commit/05168de8f74b97d335d129e219805ee646ce744c)
+Did 5 questions today
+##### [commit 13-03](https://github.com/abs12seth/CP_Practice/commit/4acbec06548624dd2fefb50932ce3f3354322acd)
+Did only 2 questions today.
+
+

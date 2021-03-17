@@ -67,3 +67,13 @@
  2. Created issue-
 
   * ![2](https://github.com/Isha307/ML/issues)
+
+        Mar 7
+        
+  1. Review -
+
+   * [1](https://github.com/Isha307/Good-First-Issue/pull/17)
+
+  2. PR -
+
+   * [1](https://github.com/DSC-IIIT-Kalyani/Winter-of-Code-IIIT-Kalyani-1.0/pull/6)
