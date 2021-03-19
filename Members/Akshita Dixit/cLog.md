@@ -16,7 +16,8 @@
 
 ### Broke the stream on the 14th of March :(
 ## Re-start :)
-
+| Day | Contributions | 
+|---------|---|
 | 001/300 | <ul><li> Commits: [todo](https://github.com/IIITKalyaniFOSC/todo/commits?author=akshitadixit&since=2021-03-14&until=2021-03-15)</li></ul>|
 | 002/300 | <ul><li> Commits: [gittub](https://github.com/IIITKalyaniFOSC/GitTub/commits?author=akshitadixit&since=2021-03-15&until=2021-03-16) </li></ul>|
 | 003/300 | <ul><li> Repo: [trackizer-WA](https://github.com/akshitadixit/Trackizer-WA)</li><li> Commits: [trackizer](https://github.com/akshitadixit/Trackizer-WA/commits?author=akshitadixit&since=2021-03-16&until=2021-03-17), [cp](https://github.com/akshitadixit/Competitive-Coding/commits?author=akshitadixit&since=2021-03-16&until=2021-03-17) </li></ul>|
