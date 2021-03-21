@@ -109,10 +109,12 @@ This repo contains my codes of the A2OJ ladder questions.
    Added [Magic Numbers](https://github.com/yashrajsingh11/A2OJ/commit/f930913d3f5f80ae5fcf116cfae282a9b08e163d)
    
    Added [Translation](https://github.com/yashrajsingh11/A2OJ/commit/0d1ce4bf7bdac6d5940042a26bf47730daa3ab48)
+   
+   Added [Football](https://github.com/yashrajsingh11/A2OJ/commit/b898634249c0ba89a6aec92c44db01c523aa28d2)
 
 </details>
 
-## Repo-3: Snakes-And-Ladders
+## Repo-3: Snakes-And-Ladders-2.0
 
 The classic Snakes and Ladders Boardgame with some twists.
 
@@ -127,5 +129,9 @@ The classic Snakes and Ladders Boardgame with some twists.
    Added [Player Piece Movement](https://github.com/yashrajsingh11/Snakes-And-Ladders/commit/b3d1cce5c34ca41f5e98367152234de8dd08ec76)
    
    Added [Functionality To Snakes And Ladders](https://github.com/yashrajsingh11/Snakes-And-Ladders/commit/5f031dd70bff765085c58dfe33466845a52b2c84)
+   
+   Added [Functionality To SnakeCharmer And Axe](https://github.com/yashrajsingh11/Snakes-And-Ladders-2.0/commit/26d2a8e5d628f4c7d0103177f8eff2994b694893)
+   
+   Added [Current Player Display](https://github.com/yashrajsingh11/Snakes-And-Ladders-2.0/commit/df255d88da59b3ba03862b376a168ad9d3c859de)
 
 </details>
