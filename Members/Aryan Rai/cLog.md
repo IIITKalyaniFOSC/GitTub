@@ -73,3 +73,6 @@ March 20, 2021
 		>> [TicTacToe in Python](https://github.com/NaYrA-IaR/PythonProjects/blob/829e615c54cb604fdeb185a4f200ecb52fdf152d/Projects/TicTacToe.py)
 
 
+March 21, 2021  
+	> Python Project:[commit 21](https://github.com/NaYrA-IaR/PythonProjects/commit/a6828e7389e1b79f960b668d7e25e2e4d22809f7)  
+		>> [Binary, HexaDecimal, Octal](https://github.com/NaYrA-IaR/PythonProjects/blob/829e615c54cb604fdeb185a4f200ecb52fdf152d/Projects/Bdh.py)
