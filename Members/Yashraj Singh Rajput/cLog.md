@@ -135,3 +135,21 @@ The classic Snakes and Ladders Boardgame with some twists.
    Added [Current Player Display](https://github.com/yashrajsingh11/Snakes-And-Ladders-2.0/commit/df255d88da59b3ba03862b376a168ad9d3c859de)
 
 </details>
+
+## Repo-4: StepAlgo
+
+A step-by-step way of learning Algorithms.
+
+<details>
+  
+  <summary>Commits </summary>
+  
+   Added [Initial GUI](https://github.com/yashrajsingh11/StepAlgo/commit/6651db96a5ba957ea82ae391a6e58dc83a08e154)
+   
+   Added [Bubble Sort and Bubble Sort Quiz](https://github.com/yashrajsingh11/StepAlgo/commit/add4c97edc5c1268f82894ae888f7015da0b88e9)
+   
+   Added [Quiz Menu](https://github.com/yashrajsingh11/StepAlgo/commit/4f36f6727a412d6a7769026d9a5d1e97a0822094)
+   
+   Added [Selection Sort](https://github.com/yashrajsingh11/StepAlgo/commit/0295e9e14c1cc30ff82acbf461518cdeef18ce30)
+
+</details>
