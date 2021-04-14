@@ -7,7 +7,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Maintenance][maintainence-shield]][maintainence-url]
 
-[![Sparkline][sparkline-shield]][sparkline-url]
+
 
 ![img](assets/image.png)
 
